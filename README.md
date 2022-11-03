@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarshK07
+# 👋 Hi, I’m @HarshK07 (Harsh Khapre)
 - 👀 I’m interested in Blockchain, Web3
 - 🌱 I’m currently learning DSA, Blockchain, Frontend Development.
 - 💞️ I’m looking to collaborate on anything which adds value in my learning.
